@@ -1,2 +1,2 @@
-# Archivo Readme.md de la rama main
-Hotfix sobre el boton de enviar email
+Este es el archivo readme.md de la rama develop
+Creacion de release/version2
